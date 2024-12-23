@@ -55,6 +55,7 @@ the hardware setup.
 * Beitian BE-280
 * Beitian BN-280ZF
 * Beitian BN-357ZF
+* Ebyte E108-GN04D
 * Fastrax UP500
 * [mRo GPS u-Blox Neo-M8N]
 * REYAX RYS352A
@@ -74,6 +75,7 @@ This application can be compiled using [uFBT]. Run `ufbt` in the root directory
 of the repository.
 
 [Adafruit Ultimate GPS Breakout]: https://www.adafruit.com/product/746
+[Ebyte E108-GN04D]: https://www.cdebyte.com/products/E108-GN04D
 [minmea]: https://github.com/kosma/minmea
 [mRo GPS u-Blox Neo-M8N]: https://store.mrobotics.io/product-p/m10034-solo.htm
 [qFlipper]: https://flipperzero.one/update
